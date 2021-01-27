@@ -1,0 +1,4 @@
+key,name,attack,stamina,alive
+chara1,キャラ１,100,90,TRUE
+chara2,キャラ２,90,100,TRUE
+chara3,キャラ３,110,80,FALSE
