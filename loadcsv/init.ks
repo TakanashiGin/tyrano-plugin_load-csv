@@ -20,4 +20,4 @@
 
 
 
-[loadjs storage="plugin/loadcsv/loadcsv.js"][return]
+[loadjs storage="plugin/loadcsv/init.min.js"][return]
